@@ -1,0 +1,20 @@
+.header
+ {
+    background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        box-shadow: 0px 7px 44px 3px #0000001c;
+        margin-bottom: 40px;
+        }
+        .main-navigation {
+            background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        box-shadow: 0px 7px 44px 3px #0000001c;
+        margin-bottom: 40px;
+        }
+     
